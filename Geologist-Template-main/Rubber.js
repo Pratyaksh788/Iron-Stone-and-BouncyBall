@@ -51,7 +51,7 @@ class Rubber{
 			rectMode(CENTER)
 			strokeWeight(4);
 			stroke("black");
-			fill("darkblue");
+			fill("pink");
 		    ellipse(0,0,this.r, this.r);
 			// circle(0,0,this.r, this.r);
 			// rect(0,0,this.r, this.r);
